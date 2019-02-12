@@ -3,7 +3,7 @@
 
 2. 코드 에디터 설치 - Sublime Text : https://www.sublimetext.com/
 
-3. 실습 : 08_IDE보다 간편한 코드에디터.pdf 
+3. 코딩실습 : 08_IDE보다 간편한 코드에디터.pdf 
 
 4.  AI-Powered Python Copilot 사용해보기 : https://kite.com/
 
