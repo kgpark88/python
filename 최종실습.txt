@@ -1,4 +1,5 @@
-1. 파이썬 설치 : https://www.python.org/,   https://www.python.org/downloads/windows/
+1. 파이썬 설치 : https://www.python.org/downloads/windows/
+                Download Windows x86-64 executable installer
 
 2. 코드 에디터 설치 - Sublime Text : https://www.sublimetext.com/
 
