@@ -22,7 +22,7 @@ plt.title(title)
 plt.savefig(filename)
 
 o 온라인 튜토리얼(참조)
-- 점프 투 파이썬 교재 : https://wikidocs.net/book/1
-- 웹프로그래밍(블로그 만들기) : https://tutorial.djangogirls.org/ko/
-- todaycodes오늘코드 :https://www.youtube.com/channel/UCLR3sD0KB_dWpvcsrLP0aUg/videos
-- 머신러닝 단기집중과정 : https://developers.google.com/machine-learning/crash-course/?hl=ko
+- 점프 투 파이썬 교재: https://wikidocs.net/book/1
+- 웹프로그래밍(블로그 만들기): https://tutorial.djangogirls.org/ko/
+- todaycodes오늘코드: https://www.youtube.com/channel/UCLR3sD0KB_dWpvcsrLP0aUg/videos
+- 머신러닝 단기집중과정: https://developers.google.com/machine-learning/crash-course/?hl=ko
