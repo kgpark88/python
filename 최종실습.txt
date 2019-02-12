@@ -7,6 +7,20 @@
 
 4.  AI-Powered Python Copilot 사용해보기 : https://kite.com/
 
+import numpy as np
+import matplotlib.pyplot as plt
+
+x = np.linspace(-1, 1)
+y = np.sin(x)
+
+plt.plot(x, y)
+
+title = "Plot"
+filename = "plot.jpg"
+
+plt.title(title)
+plt.savefig(filename)
+
 o 온라인 튜토리얼(참조)
 - 점프 투 파이썬 교재 : https://wikidocs.net/book/1
 - 웹프로그래밍(블로그 만들기) : https://tutorial.djangogirls.org/ko/
