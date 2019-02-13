@@ -1,0 +1,6 @@
+o 파이썬 입문 : https://programmers.co.kr/learn/courses/2
+o 김왼손의 미운코딩새끼: 4시간만에 끝내는 파이썬 기초: https://programmers.co.kr/learn/courses/29
+o 점프 투 파이썬 교재: https://wikidocs.net/book/1
+o todaycodes오늘코드: https://www.youtube.com/channel/UCLR3sD0KB_dWpvcsrLP0aUg/videos
+o 웹프로그래밍(Django): https://tutorial.djangogirls.org/ko/
+o  웹프로그래밍(Django) :https://www.codingforentrepreneurs.com/projects/try-django-111
